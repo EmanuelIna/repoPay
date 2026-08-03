@@ -1,0 +1,6 @@
+@repoPay.Api_HostAddress = http://localhost:5210
+
+GET {{repoPay.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
